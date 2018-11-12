@@ -1,0 +1,1 @@
+[Масиви(двумерни и тримерни)](https://www.programiz.com/cpp-programming/multidimensional-arrays)
