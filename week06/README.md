@@ -1,1 +1,0 @@
-[Масиви(едномерни)](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
